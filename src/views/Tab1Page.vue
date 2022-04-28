@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
     
-      <ExploreContainer name="Siuuuuuuuuuuuuuuuuuuuuuu" />
+      <ExploreContainer name="Siuuuuuuuuuuuuuu, el bicho" />
     </ion-content>
   </ion-page>
 </template>
